@@ -1,0 +1,7 @@
+name: Views Embed Field
+type: module
+description: Embed a view as a field.
+package: Reload
+core: 8.x
+dependencies:
+  - block
